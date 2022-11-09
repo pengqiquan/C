@@ -1,10 +1,11 @@
-# List of all files
 
 ## Audio
   * [Alaw](https://github.com/TheAlgorithms/C/blob/master/audio/alaw.c)
 
 ## Client Server
   * [Client](https://github.com/TheAlgorithms/C/blob/master/client_server/client.c)
+  * [Remote Command Exec Udp Client](https://github.com/TheAlgorithms/C/blob/master/client_server/remote_command_exec_udp_client.c)
+  * [Remote Command Exec Udp Server](https://github.com/TheAlgorithms/C/blob/master/client_server/remote_command_exec_udp_server.c)
   * [Server](https://github.com/TheAlgorithms/C/blob/master/client_server/server.c)
   * [Tcp Full Duplex Client](https://github.com/TheAlgorithms/C/blob/master/client_server/tcp_full_duplex_client.c)
   * [Tcp Full Duplex Server](https://github.com/TheAlgorithms/C/blob/master/client_server/tcp_full_duplex_server.c)
@@ -147,7 +148,7 @@
   * [Spirograph](https://github.com/TheAlgorithms/C/blob/master/graphics/spirograph.c)
 
 ## Greedy Approach
-  * [Djikstra](https://github.com/TheAlgorithms/C/blob/master/greedy_approach/djikstra.c)
+  * [Dijkstra](https://github.com/TheAlgorithms/C/blob/master/greedy_approach/dijkstra.c)
   * [Prim](https://github.com/TheAlgorithms/C/blob/master/greedy_approach/prim.c)
 
 ## Hash
@@ -168,6 +169,7 @@
     * [11](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/11.c)
     * [110](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/110.c)
     * [112](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/112.c)
+    * [118](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/118.c)
     * [1184](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/1184.c)
     * [1189](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/1189.c)
     * [12](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/12.c)
@@ -191,6 +193,7 @@
     * [203](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/203.c)
     * [206](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/206.c)
     * [21](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/21.c)
+    * [2130](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/2130.c)
     * [215](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/215.c)
     * [217](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/217.c)
     * [226](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/226.c)
@@ -222,7 +225,9 @@
     * [520](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/520.c)
     * [53](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/53.c)
     * [561](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/561.c)
+    * [6](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/6.c)
     * [617](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/617.c)
+    * [62](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/62.c)
     * [647](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/647.c)
     * [66](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/66.c)
     * [674](https://github.com/TheAlgorithms/C/blob/master/leetcode/src/674.c)
@@ -264,6 +269,7 @@
   * [Fibonacci](https://github.com/TheAlgorithms/C/blob/master/misc/fibonacci.c)
   * [Fibonacci Dp](https://github.com/TheAlgorithms/C/blob/master/misc/fibonacci_dp.c)
   * [Fibonacci Fast](https://github.com/TheAlgorithms/C/blob/master/misc/fibonacci_fast.c)
+  * [Fibonacci Formula](https://github.com/TheAlgorithms/C/blob/master/misc/fibonacci_formula.c)
   * [Gcd](https://github.com/TheAlgorithms/C/blob/master/misc/gcd.c)
   * [Is Armstrong](https://github.com/TheAlgorithms/C/blob/master/misc/is_armstrong.c)
   * [Large Factorials](https://github.com/TheAlgorithms/C/blob/master/misc/large_factorials.c)
@@ -275,11 +281,13 @@
   * [Palindrome](https://github.com/TheAlgorithms/C/blob/master/misc/palindrome.c)
   * [Pid](https://github.com/TheAlgorithms/C/blob/master/misc/pid.c)
   * [Poly Add](https://github.com/TheAlgorithms/C/blob/master/misc/poly_add.c)
+  * [Postfix Evaluation](https://github.com/TheAlgorithms/C/blob/master/misc/postfix_evaluation.c)
   * [Prime](https://github.com/TheAlgorithms/C/blob/master/misc/prime.c)
   * [Prime Factoriziation](https://github.com/TheAlgorithms/C/blob/master/misc/prime_factoriziation.c)
   * [Prime Seive](https://github.com/TheAlgorithms/C/blob/master/misc/prime_seive.c)
   * [Quartile](https://github.com/TheAlgorithms/C/blob/master/misc/quartile.c)
   * [Rselect](https://github.com/TheAlgorithms/C/blob/master/misc/rselect.c)
+  * [Run Length Encoding](https://github.com/TheAlgorithms/C/blob/master/misc/run_length_encoding.c)
   * [Strong Number](https://github.com/TheAlgorithms/C/blob/master/misc/strong_number.c)
   * [Sudoku Solver](https://github.com/TheAlgorithms/C/blob/master/misc/sudoku_solver.c)
   * [Tower Of Hanoi](https://github.com/TheAlgorithms/C/blob/master/misc/tower_of_hanoi.c)
